@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1036612141891",
+    "firebase_url": "https://crashdb-fc30d.firebaseio.com",
+    "project_id": "crashdb-fc30d",
+    "storage_bucket": "crashdb-fc30d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036612141891:android:f52ed84614bbe7e4",
+        "android_client_info": {
+          "package_name": "com.rohith.weigh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036612141891-qnvbbet0c555nldbskg6u0arobbkse38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkGIcKEmv5HQCIm_wnrQZ1SNnjcDAT8cg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
